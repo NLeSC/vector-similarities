@@ -1,2 +1,2 @@
 # vector-similarities
-Fast Python computation of vector similarity scores
+Fast Python computation of vector similarities using NumPy and/or Numba implementations.
